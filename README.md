@@ -1,13 +1,12 @@
-<h1 align="center">💻 Rayan Khemici</h1>
-<h3 align="center">I am a territory planning student with a strong passion for programming. While my studies focus on territory planning, I have developed a keen interest in programming and how it can be applied to optimize and streamline territorial management. I am eager to explore innovative ways to integrate programming techniques into territory planning practices and create practical solutions that drive positive outcomes.</h3>
+<h1 align="center">Rayan Khemici</h1>
+<h3 align="center">I operate at the intersection of territory planning and software engineering. While my studies focus on the physical world, my work is dedicated to building its digital twin. From developing native Android applications to architecting a 'Holographic Matrix' for AI-driven spatial reasoning, I’m focused on one thing: turning complex geospatial data into actionable intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 
-- 🌱 I’m currently learning **Tensorflow**
 - 📫 How to reach me **rnkmc.az@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dax__n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dax__n" height="30" width="40" /></a>
+<a href="https://instagram.com/ryan_kmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dax__n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
